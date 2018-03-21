@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello Devkolibri
 Hello first chenge
+=======
+Hello Devkolibri my change
+>>>>>>> Change file
