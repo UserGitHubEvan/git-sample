@@ -1,2 +1,3 @@
 # git-sample
-# lalala
+
+# New line for rebase example.
